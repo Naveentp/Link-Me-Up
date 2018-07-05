@@ -9,6 +9,8 @@
 - [APK method count](http://inloop.github.io/apk-method-count/)
 - [Library method count](http://www.methodscount.com/)
 - [Android asset studio - Set of online tools](http://romannurik.github.io/AndroidAssetStudio/)
+- [Gradle, Please](http://gradleplease.appspot.com/)
+- [Material design icons](https://materialdesignicons.com/)
 
 ## Productivity
 - [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/)
