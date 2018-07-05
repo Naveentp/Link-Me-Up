@@ -15,13 +15,24 @@
 android{
   defaultConfig {
     ...
+    //Build variable
     buildConfigField "String", "NEWS_API", '"YOUR_NEWS_API"'
+
+    //Resource variable
     resValue 'string', 'APP_NAME', APP_NAME
+
+    //Manifest Placeholder 
+    manifestPlaceholders = [crashlyticsApiKey: "514bec26d15bb8f67dc8129f0eda3cabf79fXXXX"]
     ...
   }
 }
 
 //Can be accessed as
 BuildConfig.NEWS_API
+
 getString(R.string.APP_NAME);
+
+<meta-data
+       android:name="io.fabric.ApiKey"
+       android:value="${crashlyticsApiKey}" />
 ``` 
