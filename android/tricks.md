@@ -39,4 +39,4 @@ getString(R.string.APP_NAME);
 
 + **Make use of IntelliJ's Live templates [this](https://github.com/keyboardsurfer/idea-live-templates), [this](https://www.bignerdranch.com/blog/android-studio-live-templates/)**
 
-+ **Stay updated and Lean from [youtube channels](https://www.lvguowei.me/post/ultimate-list-of-youtube-programming-channels/) 
++ **Stay updated and Learn from [youtube programming channels](https://www.lvguowei.me/post/ultimate-list-of-youtube-programming-channels/)** 
