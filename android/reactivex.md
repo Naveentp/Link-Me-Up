@@ -6,3 +6,4 @@
 - [Rxjava for android 100 examples pack](http://androidahead.com/2018/04/06/rxjava-for-android-100-examples-pack)
 - [RxJava Demo App](https://github.com/JoaoMotondon/RxJavaDemoApp/)
 - [RxJava2-Android-Samples - Amit shekhar](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples)
+- [Implementing eventbus with RxJava](https://blog.mindorks.com/implementing-eventbus-with-rxjava-rxbus-e6c940a94bd8)

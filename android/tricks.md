@@ -36,3 +36,7 @@ getString(R.string.APP_NAME);
        android:name="io.fabric.ApiKey"
        android:value="${crashlyticsApiKey}" />
 ``` 
+
++ **Make use of IntelliJ's Live templates [this](https://github.com/keyboardsurfer/idea-live-templates), [this](https://www.bignerdranch.com/blog/android-studio-live-templates/)**
+
++ **Stay updated and Lean from [youtube channels](https://www.lvguowei.me/post/ultimate-list-of-youtube-programming-channels/) 
