@@ -8,7 +8,7 @@
 
 + **Use [LeakCanary](https://github.com/square/leakcanary) to find memory leak in app**
 
-+ **Learn MVP, MVVM, MVI architectural patterns**
++ **Learn [MVP, MVVM, MVI](https://github.com/Naveentp/Link-Me-Up/blob/master/android/architecture.md) architectural patterns**
 
 + **Create build time resource/variables in `build.gradle`**
 ```
