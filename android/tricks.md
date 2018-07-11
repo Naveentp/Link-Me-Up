@@ -41,4 +41,4 @@ getString(R.string.APP_NAME);
 
 + **Stay updated and Learn from [youtube programming channels](https://www.lvguowei.me/post/ultimate-list-of-youtube-programming-channels/)** 
 
-+ **[Android Gradle DSL ref](http://google.github.io/android-gradle-dsl/) - Be productive by using gradle scripts of building and delevering your app **
++ **[Android Gradle DSL ref](http://google.github.io/android-gradle-dsl/) - Be productive by using gradle scripts of building and delevering your app**
