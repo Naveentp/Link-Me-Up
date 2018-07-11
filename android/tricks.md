@@ -33,10 +33,12 @@ BuildConfig.NEWS_API
 getString(R.string.APP_NAME);
 
 <meta-data
-       android:name="io.fabric.ApiKey"
+       android:name="io.fabric.Api∏Key"
        android:value="${crashlyticsApiKey}" />
 ``` 
 
 + **Make use of IntelliJ's Live templates [this](https://github.com/keyboardsurfer/idea-live-templates), [this](https://www.bignerdranch.com/blog/android-studio-live-templates/)**
 
 + **Stay updated and Learn from [youtube programming channels](https://www.lvguowei.me/post/ultimate-list-of-youtube-programming-channels/)** 
+
++ **[Android Gradle DSL ref](http://google.github.io/android-gradle-dsl/) - Be productive by using gradle scripts of building and delevering your app **
