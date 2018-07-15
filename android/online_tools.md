@@ -4,6 +4,7 @@ Here is the list of online tools which we can make use of and the list of curate
 ### Online Tools and Plugins
 #### Development
 - [JsonPlaceHolder - Fake Json REST API](https://jsonplaceholder.typicode.com/)
+- [Jsonstub - Fake Json Response](http://jsonstub.com/)
 - [Online Json Editor](http://jsoneditoronline.org/)
 - [Material pallette](https://www.materialpalette.com/)
 - [RegEx Build Helper](https://regexr.com/)
@@ -16,14 +17,20 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Android asset studio - Set of online tools](http://romannurik.github.io/AndroidAssetStudio/)
 - [Gradle, Please](http://gradleplease.appspot.com/)
 - [Material design icons](https://materialdesignicons.com/)
+- [Appetize - Run apps on browser](https://appetize.io/)
 - [Android arsenal](https://android-arsenal.com/)
 
 ### Productivity
 - [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/)
 - [Playstore Screenshot generator](https://www.appstorescreenshot.com/)
 - [App launch pad - Mockup generator](https://theapplaunchpad.com/mockup-generator/)
+- [Balsamiq - Wireframing tool](https://balsamiq.com/)
+- [draw.io - Create diagrams](https://www.draw.io/)
+- [Figma - Super online tool for creating prototypes](https://www.figma.com/)
 - [List of git emoji's](https://gist.github.com/rxaviers/7360908)
 - [Free Images](https://unsplash.com)
+- [Merge PDFs into one](https://www.altomerge.com/)
+- [Trello - Tool for teams to collaborate on any project](https://trello.com/)
 
 ## Libraries
 - [Android Arsenal](https://android-arsenal.com/) - List of libraries
