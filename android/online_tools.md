@@ -20,6 +20,7 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Appetize - Run apps on browser](https://appetize.io/)
 - [Android arsenal](https://android-arsenal.com/)
 - [Android starters - Starter projects](http://androidstarters.com/)
+- [Kotlin Extensions](http://kotlinextensions.com/)
 
 ### Productivity
 - [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/)
