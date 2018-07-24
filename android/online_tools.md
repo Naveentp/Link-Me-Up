@@ -19,6 +19,7 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Material design icons](https://materialdesignicons.com/)
 - [Appetize - Run apps on browser](https://appetize.io/)
 - [Android arsenal](https://android-arsenal.com/)
+- [Android starters - Starter projects](http://androidstarters.com/)
 
 ### Productivity
 - [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/)

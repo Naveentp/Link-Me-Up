@@ -42,3 +42,8 @@ getString(R.string.APP_NAME);
 + **Stay updated and Learn from [youtube programming channels](https://www.lvguowei.me/post/ultimate-list-of-youtube-programming-channels/)** 
 
 + **[Android Gradle DSL ref](http://google.github.io/android-gradle-dsl/) - Be productive by using gradle scripts of building and delevering your app**
+
++ **Take [interviews](https://github.com/kdn251/interviews), test and upgrade your skills time to time**
+
++ **Kotlin [standard functions](https://github.com/JetBrains/kotlin/blob/master/libraries/stdlib/src/kotlin/util/Standard.kt)(let, apply, with, also, run) and [when to use what](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84)?**  
+![Image](img/kotlin_standard_functions.png)
