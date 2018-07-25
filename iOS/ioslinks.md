@@ -1,6 +1,8 @@
+# Begin
+- [Your first iOS app - Raywenderlich](https://videos.raywenderlich.com/courses/141-your-first-ios-app/lessons/1) 
+
 # News Letters
 - [Swift Sparks](https://swiftsparks.com)
-- []()
 
 # Medium Reads
 - [Swift Structs](https://medium.com/swift-india/part1-struct-2d585269b121)
