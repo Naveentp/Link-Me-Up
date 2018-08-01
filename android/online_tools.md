@@ -30,6 +30,12 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Android starters](http://androidstarters.com/) - Starter projects
 - [Kotlin Extensions](http://kotlinextensions.com/) - Curated list of kotlin extensions
 
+### Online resources
+- [Kotlin Resources](https://www.kotlinresources.com/) - The ultimate resource list for your most loved coding language.
+- [Android Arsenal](https://android-arsenal.com/) - Pool of android libraries and tools
+- [Mindorks Android Store](https://mindorks.com/android/store) - Search Android Libraries, Projects, and Tools
+- [Android Resources](https://androidresources.net/) - Articles, Podcasts & Conferences about Android Development
+
 ### Productivity
 - [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - Useful for presentations
 - [Playstore Screenshot generator](https://www.appstorescreenshot.com/) - Beautify your screenshots
@@ -40,5 +46,4 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Trello](https://trello.com/) - Tool for teams to collaborate on any project
 
 ## Libraries
-- [Android arsenal](https://android-arsenal.com/) - Pool of android libraries and tools
 - [Stetho](http://facebook.github.io/stetho/) - A fb's debug bridge for Android applications
