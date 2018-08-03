@@ -44,6 +44,7 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Unsplash](https://unsplash.com) - Free images for download
 - [Merge PDFs into one](https://www.altomerge.com/) 
 - [Trello](https://trello.com/) - Tool for teams to collaborate on any project
+- [tldr - commandline helper tool](https://tldr.ostera.io/) - Less scary command line `man` pages.
 
 ## Libraries
 - [Stetho](http://facebook.github.io/stetho/) - A fb's debug bridge for Android applications
