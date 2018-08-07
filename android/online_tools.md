@@ -8,6 +8,7 @@ Here is the list of online tools which we can make use of and the list of curate
 - [InvisionApp](https://www.invisionapp.com/)
 - [Zeplin](https://zeplin.io/)
 - [Mockflow](https://mockflow.com/)
+- [Gallery](https://gallery.io/) - Gallery is a collaborative tool for uploading design work, getting feedback, and tracking revisions
 - [Balsamiq](https://balsamiq.com/) - Wireframe design tool
 - [draw.io](https://www.draw.io/) - Create diagrams
 
@@ -46,5 +47,11 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Trello](https://trello.com/) - Tool for teams to collaborate on any project
 - [tldr - commandline helper tool](https://tldr.ostera.io/) - Less scary command line `man` pages.
 
+
+## Just for fun
+- [WhatTheCommit](https://whatthecommit.com/) - Commit message generator
+- [IDontLikeWork](https://idontlike.work/) - Work from home reason generator
+
 ## Libraries
 - [Stetho](http://facebook.github.io/stetho/) - A fb's debug bridge for Android applications
+- [Permission dispatcher Plugin](https://github.com/permissions-dispatcher/permissions-dispatcher-plugin) - Annotation based Runtime permission dispatcher

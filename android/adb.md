@@ -53,6 +53,9 @@ eg, adb push `E:\Path\to\file.mp4" "/sdcard/Downloads/video.mp4`
 - `adb shell input keyevent 207` - Contacts
 - `adb shell input keyevent 220 / 221` - Brightness down/up
 - `adb shell input keyevent 277 / 278 /279` - Cut/Copy/Paste
-Refer [KeyEvent](https://developer.android.com/reference/android/view/KeyEvent.html) for more.
+Refer [KeyEvent](https://developer.android.com/reference/android/view/KeyEvent.html) for more.  
+
+### Quick links
+- Connect multiple devices remotely using adb [Ref link](https://android.stackexchange.com/a/137615/263737) 
 
 
