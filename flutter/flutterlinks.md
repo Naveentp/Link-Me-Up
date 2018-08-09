@@ -6,10 +6,13 @@
 - [Flutter Institute](https://flutter.institute/) - Tutorials
 - [Flutter Rocks](https://flutter.rocks/) - a blog about the joys of Flutter
 - [Flutter Weekly](https://flutterweekly.net/) - weekly newsletter
-- [FlutterPlayground - ibhavikmakwana](https://github.com/ibhavikmakwana/FlutterPlayground)
 
 
-# Medium
-
+### Medium
 - [Flutter IO](https://medium.com/flutter-io) 
 - [Flutter resources](https://medium.freecodecamp.org/learn-flutter-best-resources-18f88346ed0f)
+
+
+### Flutter Enthusiasts
+- [deven98](https://github.com/deven98) - Flutter Whatsapp, Twitter, Medium Clone apps
+- [ibhavikmakwana](https://github.com/ibhavikmakwana/FlutterPlayground) - Flutter examples

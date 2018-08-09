@@ -72,3 +72,7 @@ getString(R.string.APP_NAME);
   <br>
   <br>
 </h1>
+
++ **You can now debug `build.gradle` file using IntelliJ IDE [[Ref link](https://twitter.com/gradle/status/1025066195848810496)]**
+
++ **Learn everything about `ConstraintLayout` [here](https://constraintlayout.com/). This has some cool tips and tricks as well.**
