@@ -36,6 +36,8 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Android Arsenal](https://android-arsenal.com/) - Pool of android libraries and tools
 - [Mindorks Android Store](https://mindorks.com/android/store) - Search Android Libraries, Projects, and Tools
 - [Android Resources](https://androidresources.net/) - Articles, Podcasts & Conferences about Android Development
+- [ConstraintLayout](https://constraintlayout.com/) - Everything about `ConstraintLayout`
+- [Android Dev training gitbook](https://legacy.gitbook.com/@google-developer-training) - Android PDF to prepare Google dev expert certification
 
 ### Productivity
 - [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - Useful for presentations
@@ -45,7 +47,8 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Unsplash](https://unsplash.com) - Free images for download
 - [Merge PDFs into one](https://www.altomerge.com/) 
 - [Trello](https://trello.com/) - Tool for teams to collaborate on any project
-- [tldr - commandline helper tool](https://tldr.ostera.io/) - Less scary command line `man` pages.
+- [tldr - commandline helper tool](https://tldr.ostera.io/) - Less scary command line `man` pages. [Source](https://github.com/tldr-pages/tldr) attached. Similar tools - [BroPages](http://bropages.org/), [Cheat](https://github.com/chrisallenlane/cheat). 
+
 
 
 ## Just for fun
