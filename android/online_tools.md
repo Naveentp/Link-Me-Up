@@ -11,6 +11,7 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Gallery](https://gallery.io/) - Gallery is a collaborative tool for uploading design work, getting feedback, and tracking revisions
 - [Balsamiq](https://balsamiq.com/) - Wireframe design tool
 - [draw.io](https://www.draw.io/) - Create diagrams
+- [Pixlr](https://www.pixlr.com/editor/) - Your online photoshop tool
 
 
 #### Development
