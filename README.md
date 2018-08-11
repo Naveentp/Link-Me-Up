@@ -12,7 +12,8 @@ Any technical information which I come across will be logged here.
 - Flutter
 	- [Flutter Resources](https://github.com/Naveentp/Link-Me-Up/blob/master/flutter/flutterlinks.md)
 
-- iOS
+- iOS  
+  - [Basics](https://github.com/Naveentp/Link-Me-Up/blob/master/iOS/basics.md)
 	- [iOS Resources](https://github.com/Naveentp/Link-Me-Up/blob/master/iOS/ioslinks.md)
 	
 	
