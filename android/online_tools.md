@@ -55,7 +55,3 @@ Here is the list of online tools which we can make use of and the list of curate
 ## Just for fun
 - [WhatTheCommit](https://whatthecommit.com/) - Commit message generator
 - [IDontLikeWork](https://idontlike.work/) - Work from home reason generator
-
-## Libraries
-- [Stetho](http://facebook.github.io/stetho/) - A fb's debug bridge for Android applications
-- [Permission dispatcher Plugin](https://github.com/permissions-dispatcher/permissions-dispatcher-plugin) - Annotation based Runtime permission dispatcher
