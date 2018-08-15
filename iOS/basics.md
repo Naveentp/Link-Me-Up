@@ -84,7 +84,7 @@ Unlike including all the concepts of iOS, this is just a TIL [Today I Learned] l
 	}
 
 	//Usage
-	
+
 	dowloadImage(action: downloadingImg)
 
 	//or
@@ -94,8 +94,32 @@ Unlike including all the concepts of iOS, this is just a TIL [Today I Learned] l
 	}
 	```
 
+- **Property observers - `didSet`, `willSet`**  
+	Property observers let you run code before or after any property changes
 
+	```
+	class UserStatus {
+    	var status : String = "Success" {
+        	willSet {
+            	// willSet to take action BEFORE a property changes
+            	print("Status will change now")
+        	}
+        
+        	didSet {
+            	// willSet to take action AFTER a property changes
+            	print("Status Changed to \(status)")
+        	}
+        }
+	}
 
+	//Usage
+	var userStatus = UserStatus()
+	userStatus.status = "Failure"
+
+	//Output
+	Status will change now
+	Status Changed to Failure
+	```
 
 
 
