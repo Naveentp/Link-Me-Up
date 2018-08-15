@@ -24,7 +24,7 @@ Unlike including all the concepts of iOS, this is just a TIL [Today I Learned] l
  - **`fallthrough` keyword in switch statement**  
  	If you want execution to continue on to the next case, use `fallthrough`
  	```
- 	switch weather {
+ 	switch arithmatic {
 		case "plus":
     		print("addition")
 		case "minus":
@@ -84,6 +84,7 @@ Unlike including all the concepts of iOS, this is just a TIL [Today I Learned] l
 	}
 
 	//Usage
+	
 	dowloadImage(action: downloadingImg)
 
 	//or
