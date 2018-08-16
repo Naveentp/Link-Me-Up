@@ -12,11 +12,14 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Balsamiq](https://balsamiq.com/) - Wireframe design tool
 - [draw.io](https://www.draw.io/) - Create diagrams
 - [Pixlr](https://www.pixlr.com/editor/) - Your online photoshop tool
+- [Angry Tools](http://angrytools.com/) - A set of web and android tools
+- [Material io(Google)](https://material.io/tools/) - List of material design tools.
 
 
 #### Development
 - [JsonPlaceHolder](https://jsonplaceholder.typicode.com/) - Fake Json REST API
 - [Jsonstub](http://jsonstub.com/) - Customized fake JSON REST API
+- [Mocky](https://www.mocky.io/) - Mock your HTTP responses to test your REST API
 - [Online Json Editor](http://jsoneditoronline.org/) - Prettify JSON String 
 - [Material pallette](https://www.materialpalette.com/) - Primary color picker
 - [RegExr](https://regexr.com/) - Learn, Build and Test RegEx 
@@ -50,8 +53,7 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Trello](https://trello.com/) - Tool for teams to collaborate on any project
 - [tldr - commandline helper tool](https://tldr.ostera.io/) - Less scary command line `man` pages. [Source](https://github.com/tldr-pages/tldr) attached. Similar tools - [BroPages](http://bropages.org/), [Cheat](https://github.com/chrisallenlane/cheat). 
 
-
-
+  
 ## Just for fun
 - [WhatTheCommit](https://whatthecommit.com/) - Commit message generator
 - [IDontLikeWork](https://idontlike.work/) - Work from home reason generator
