@@ -25,7 +25,14 @@
 
 
 ## Few libraries for your android app
+
+##### Debug
 - [Stetho](http://facebook.github.io/stetho/) - A fb's debug bridge for Android applications
+- [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences
+- [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+- [Leak Canary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
+
+##### Others
 - [Permission dispatcher Plugin](https://github.com/permissions-dispatcher/permissions-dispatcher-plugin) - Annotation based Runtime permission dispatcher
 
 
