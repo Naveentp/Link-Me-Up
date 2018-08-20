@@ -1,15 +1,16 @@
 # Third party Libraries
 
-## Dagger
-##### Official
+## Dependency Injection
+##### Dagger
+- [Dagger Documentation](https://google.github.io/dagger/users-guide) - Dagger official documentation by google
 - [Google's Dagger Repo](https://github.com/google/dagger) - Github official repository
-
-##### Videos
 - [Dagger2 basics](https://www.youtube.com/watch?v=Qwk7ESmaCq0) - by Twisted equations
+- [How to use Dagger2](https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97) - That Missing Guide : How to use Dagger2
+- [Dagger2](https://www.raywenderlich.com/171327/dependency-injection-android-dagger-2) - Raywenderlich tutorial
 
-##### Articles
-- [That Missing Guide: How to use Dagger2](https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97)
-- [Dagger2 - Raywenderlich](https://www.raywenderlich.com/171327/dependency-injection-android-dagger-2)
+##### Koin
+- [Koin Official website](https://insert-koin.io/) - A pragmatic lightweight dependency injection framework for Kotlin developers.
+- [Koin Github Repo](https://github.com/InsertKoinIO/koin) - Github official repository
 
 
 ## RxJava/RxAndroid 
