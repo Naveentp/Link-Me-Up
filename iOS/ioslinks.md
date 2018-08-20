@@ -1,17 +1,44 @@
-# Begin
-- [Your first iOS app - Raywenderlich](https://videos.raywenderlich.com/courses/141-your-first-ios-app/lessons/1) 
+# iOS Resources
 
-# News Letters
+## Resources
+- [Your first iOS app - Raywenderlich](https://videos.raywenderlich.com/courses/141-your-first-ios-app/lessons/1) 
+- [Appcoda](https://www.appcoda.com/)
+- [HackingWithSwift](https://www.hackingwithswift.com/)
+- [LetsBuildThatApp](https://www.letsbuildthatapp.com/)
+- [CodeAcademy](https://www.codecademy.com/)
+- [The-Swift-Programming-Language - eBook](https://itunes.apple.com/us/book/the-swift-programming-language-swift-4-1/id881256329?mt=11)
+- [App-Development-With-Swift - eBook](https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11)
+- [WeHeartSwift](https://www.weheartswift.com/)
+- [BrianAdvent](https://www.brianadvent.com/)
+- [Flatiron school](https://flatironschool.com/programs/online-swift-free-course/)
+
+##### Paid Resources
+- [NSScreencast](https://nsscreencast.com/)
+- [TeamTreeHouse](https://teamtreehouse.com/)
+
+##### Youtube channels
+- [Paul Hudson](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ)
+- [Jared Davidson](https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA)
+- [Mitchell Hudson](https://www.youtube.com/channel/UC4fBIlVbskxR74PY_y-iOng)
+- [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
+- [Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw) 
+
+##### News Letters
 - [Swift Sparks](https://swiftsparks.com)
 
-# Medium Reads
+##### Medium & other Reads
 - [Swift Structs](https://medium.com/swift-india/part1-struct-2d585269b121)
 - [Power of protocols](https://medium.com/swift-india/protocol-the-power-of-swift-5dfe9bc41a99)
 - [Swift extensions](https://hackernoon.com/reactiveswift-extension-36f7fb1ef10a)
+- [An iOS alert view with a text field and a “smart” OK button](https://oleb.net/2018/uialertcontroller-textfield/)
+- [10 tips to become better swift developer](https://blog.bobthedeveloper.io/10-tips-to-become-better-swift-developer-a7c2ab6fc0c2)
+- 
 
-
-# Unit Testing
+##### Unit Testing
 - [Unit Testing in iOS using ReactorKit, Quick & Nimble, RxBlocking, Swift 4.1](https://blog.getdoctalk.com/unit-testing-in-ios-using-reactorkit-quick-nimble-rxblocking-swift-4-1-a01ccbaff44b)
 
-# Github
-- [Customized Popup](https://github.com/dsrijan/Customized-Popup)
+##### Github
+- [Customized Popup](https://github.com/dsrijan/Customized-Popup) - Customized bottom up popups
+- [30DaysOfSwift](https://github.com/allenwong/30DaysofSwift) - A self-taught project to learn Swift.
+- [Unwrap](https://github.com/twostraws/Unwrap) -  by HackingWithSwift
+- [Beam](https://github.com/awkward/beam) - An opensource reddit client for iOS.
