@@ -54,6 +54,16 @@ Here is the list of online tools which we can make use of and the list of curate
 - [tldr - commandline helper tool](https://tldr.ostera.io/) - Less scary command line `man` pages. [Source](https://github.com/tldr-pages/tldr) attached. Similar tools - [BroPages](http://bropages.org/), [Cheat](https://github.com/chrisallenlane/cheat). 
 
   
-## Just for fun
+### Just for fun
 - [WhatTheCommit](https://whatthecommit.com/) - Commit message generator
 - [IDontLikeWork](https://idontlike.work/) - Work from home reason generator
+
+### IntelliJ Plugins
+- [Drawable importer](https://github.com/winterDroid/android-drawable-importer-intellij-plugin) - Drawables in different resolutions
+- [Parcelable Generator](https://github.com/mcharmas/android-parcelable-intellij-plugin/) - IntelliJ Plugin for Android Parcelable boilerplate code generation.
+- [butterknife injections](https://github.com/avast/android-butterknife-zelezny) - Butterknife boilerplate code generator
+- [ADB Idea](https://github.com/pbreault/adb-idea) - Shortcuts for ADB related tasks
+
+ 
+
+
