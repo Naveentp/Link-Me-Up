@@ -16,6 +16,7 @@
 ## RxJava/RxAndroid 
    
 ##### Resources   
+- [Rx articles](https://github.com/ReactiveX/RxJava/wiki/Additional-Reading)
 - [Reactive How](http://reactive.how/)
 - [Reactivex io](http://reactivex.io/)
 - [Rx Marbles](http://rxmarbles.com/)
