@@ -42,3 +42,7 @@
 - [30DaysOfSwift](https://github.com/allenwong/30DaysofSwift) - A self-taught project to learn Swift.
 - [Unwrap](https://github.com/twostraws/Unwrap) -  by HackingWithSwift
 - [Beam](https://github.com/awkward/beam) - An opensource reddit client for iOS.
+
+##### Terminal commands
+- `xcrun simctl delete unavailable` - it deletes unavailable iOS Simulators
+- `ipconfig getifaddr en1` - To Get IP address of Ubuntu/Mac systems  
