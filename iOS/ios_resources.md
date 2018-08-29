@@ -25,6 +25,7 @@
 
 ##### News Letters
 - [Swift Sparks](https://swiftsparks.com)
+- [15 great iOS newsletters you should know about](https://medium.com/flawless-app-stories/15-great-ios-newsletters-you-should-know-about-e32978dd20e1)
 
 ##### Medium & other Reads
 - [Swift Structs](https://medium.com/swift-india/part1-struct-2d585269b121)
@@ -32,7 +33,7 @@
 - [Swift extensions](https://hackernoon.com/reactiveswift-extension-36f7fb1ef10a)
 - [An iOS alert view with a text field and a “smart” OK button](https://oleb.net/2018/uialertcontroller-textfield/)
 - [10 tips to become better swift developer](https://blog.bobthedeveloper.io/10-tips-to-become-better-swift-developer-a7c2ab6fc0c2)
-- 
+- [30+ great UI Kits for iOS engineers](https://medium.com/flawless-app-stories/30-great-ui-kits-for-ios-engineers-41b2732896b9)
 
 ##### Unit Testing
 - [Unit Testing in iOS using ReactorKit, Quick & Nimble, RxBlocking, Swift 4.1](https://blog.getdoctalk.com/unit-testing-in-ios-using-reactorkit-quick-nimble-rxblocking-swift-4-1-a01ccbaff44b)
@@ -40,8 +41,10 @@
 ##### Github
 - [Customized Popup](https://github.com/dsrijan/Customized-Popup) - Customized bottom up popups
 - [30DaysOfSwift](https://github.com/allenwong/30DaysofSwift) - A self-taught project to learn Swift.
-- [Unwrap](https://github.com/twostraws/Unwrap) -  by HackingWithSwift
+- [Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects) - A self-taught project to learn Swift.
+- [Unwrap](https://github.com/twostraws/Unwrap) - by HackingWithSwift
 - [Beam](https://github.com/awkward/beam) - An opensource reddit client for iOS.
+- [33 awesome GitHub lists for iOS development](https://medium.com/flawless-app-stories/33-awesome-github-lists-for-ios-development-336691520d0f) - Most useful github repositories for you.
 
 ##### Terminal commands
 - `xcrun simctl delete unavailable` - it deletes unavailable iOS Simulators
