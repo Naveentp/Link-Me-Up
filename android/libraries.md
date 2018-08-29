@@ -11,7 +11,8 @@
 ##### Koin
 - [Koin Official website](https://insert-koin.io/) - A pragmatic lightweight dependency injection framework for Kotlin developers.
 - [Koin Github Repo](https://github.com/InsertKoinIO/koin) - Github official repository
-
+- [Using dependency injection with Koin](https://medium.com/mindorks/using-dependency-injection-with-koin-bee0b461714a) - Medium article
+- [Simplifying dependency injection with Kotlin and Koin](https://proandroiddev.com/better-dependency-injection-for-android-567b93353ad) - Medium article
 
 ## RxJava/RxAndroid 
    
