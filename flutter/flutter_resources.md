@@ -11,7 +11,7 @@
 ### Medium
 - [Flutter IO](https://medium.com/flutter-io) 
 - [Flutter resources](https://medium.freecodecamp.org/learn-flutter-best-resources-18f88346ed0f)
-
+- [Making the Most of Flutter](https://hackernoon.com/making-the-most-of-flutter-from-basics-to-customization-433171581d01) - From Basics to Customization
 
 ### Flutter Enthusiasts
 - [deven98](https://github.com/deven98) - Flutter Whatsapp, Twitter, Medium Clone apps

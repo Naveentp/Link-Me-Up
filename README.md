@@ -3,16 +3,17 @@
 Any technical information which I come across will be logged here.
 
 - Android
+  - [Android Resources](https://github.com/Naveentp/Link-Me-Up/blob/master/android/android_resources.md)
 	- [ADB commands](https://github.com/Naveentp/Link-Me-Up/blob/master/android/adb.md)
 	- [Online Tools](https://github.com/Naveentp/Link-Me-Up/blob/master/android/online_tools.md)
 	- [Libraries/Opensource](https://github.com/Naveentp/Link-Me-Up/blob/master/android/libraries.md)
 
 - Flutter
-	- [Flutter Resources](https://github.com/Naveentp/Link-Me-Up/blob/master/flutter/flutterlinks.md)
+	- [Flutter Resources](https://github.com/Naveentp/Link-Me-Up/blob/master/flutter/flutter_resources.md)
 
 - iOS
   - [Basics](https://github.com/Naveentp/Link-Me-Up/blob/master/iOS/basics.md)
-  - [iOS Resources](https://github.com/Naveentp/Link-Me-Up/blob/master/iOS/ioslinks.md)
+  - [iOS Resources](https://github.com/Naveentp/Link-Me-Up/blob/master/iOS/ios_resources.md)
 	
 	
 ### Be Productive
