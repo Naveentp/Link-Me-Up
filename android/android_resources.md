@@ -13,6 +13,7 @@
 - [Offline App with RxJava 2 and Room](https://medium.com/@iammert/offline-app-with-rxjava-2-and-room-ccd0b5c18101)
 - [tools:title=”LayoutPreview”](https://proandroiddev.com/android-studio-layout-preview-b7b229741ec1) - power of `tools:` in android XMLs
 - [Things I wish I knew when I started building Android SDK/Libraries](https://android.jlelse.eu/things-i-wish-i-knew-when-i-started-building-android-sdk-libraries-dba1a524d619) - Tips while building Android SDK/Libraries
+- [Awesome List Of Online Tools For Android Developers](https://proandroiddev.com/awesome-list-of-online-tools-for-android-developers-f40af8f46299) - A solid collection of day to day tools for AndroidDev.
 
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts
@@ -28,3 +29,4 @@
 - [Android Architecture Components - A Complete Kotlin Walkthrough](https://android.jlelse.eu/android-architecture-components-a-complete-kotlin-walkthrough-d59145a14bef)
 - [Kotlin tips](https://medium.com/default-to-open/kotlin-tips-singleton-utility-functions-group-object-initialization-and-more-27cdd6f63a41) - Singleton, Utility Functions, group Object Initialization and more…
 - [Simplify your Android code by delegating to sealed classes](https://medium.com/halcyon-mobile/simplify-your-android-code-by-delegating-to-sealed-classes-99304c509321)
+- [An Introduction to Inline Classes in Kotlin](https://typealias.com/guides/introduction-to-inline-classes/)
