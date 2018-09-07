@@ -14,6 +14,7 @@
 - [tools:title=”LayoutPreview”](https://proandroiddev.com/android-studio-layout-preview-b7b229741ec1) - power of `tools:` in android XMLs
 - [Things I wish I knew when I started building Android SDK/Libraries](https://android.jlelse.eu/things-i-wish-i-knew-when-i-started-building-android-sdk-libraries-dba1a524d619) - Tips while building Android SDK/Libraries
 - [Awesome List Of Online Tools For Android Developers](https://proandroiddev.com/awesome-list-of-online-tools-for-android-developers-f40af8f46299) - A solid collection of day to day tools for AndroidDev.
+- [Quick Android Lessons](https://egghead.io/browse/platforms/android) - by [egghead.io](https://egghead.io/).
 
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts

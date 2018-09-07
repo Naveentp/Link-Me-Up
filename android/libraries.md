@@ -26,7 +26,8 @@
 - [RxJava Demo App](https://github.com/JoaoMotondon/RxJavaDemoApp/)
 - [RxJava2-Android-Samples - Amit shekhar](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples)
 - [Implementing eventbus with RxJava](https://blog.mindorks.com/implementing-eventbus-with-rxjava-rxbus-e6c940a94bd8)
-
+- [RxJs By Egghead.io](https://egghead.io/browse/libraries/rxjs)
+- [LearnRxJS](https://www.learnrxjs.io/)
 
 ## Few libraries for your android app
 

@@ -11,6 +11,7 @@
 - [WeHeartSwift](https://www.weheartswift.com/)
 - [BrianAdvent](https://www.brianadvent.com/)
 - [Flatiron school](https://flatironschool.com/programs/online-swift-free-course/)
+- [Quick Android Lessons - by egghead.io](https://egghead.io/browse/platforms/ios)
 
 ##### Paid Resources
 - [NSScreencast](https://nsscreencast.com/)

@@ -12,7 +12,7 @@
 - [Mtech viral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) - MTech viral - Flutter video tutorial
 - [Google codelabs](https://codelabs.developers.google.com/?cat=Flutter) - Google code labs are easy way to learn.
 - [Awesome flutter](https://github.com/Solido/awesome-flutter) - Github repository
-
+- [Quick Dart Lessons](https://egghead.io/browse/languages/dart) - by EggHead
 
 ### Medium
 - [Flutter IO](https://medium.com/flutter-io) 
