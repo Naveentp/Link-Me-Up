@@ -14,6 +14,9 @@
 - [Awesome flutter](https://github.com/Solido/awesome-flutter) - Github repository
 - [Quick Dart Lessons](https://egghead.io/browse/languages/dart) - by EggHead
 
+### Libraries
+- [Kiwi](https://github.com/letsar/kiwi) - Dependency injection for Flutter. Here is the [supporting article](https://medium.com/flutter-community/announcing-kiwi-52ddb3935e6d)
+
 ### Medium
 - [Flutter IO](https://medium.com/flutter-io) 
 - [Flutter resources](https://medium.freecodecamp.org/learn-flutter-best-resources-18f88346ed0f)
