@@ -16,6 +16,7 @@
 
 ### Libraries
 - [Kiwi](https://github.com/letsar/kiwi) - Dependency injection for Flutter. Here is the [supporting article](https://medium.com/flutter-community/announcing-kiwi-52ddb3935e6d)
+- [Awesome flutter snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - for Visual studio code 
 
 ### Medium
 - [Flutter IO](https://medium.com/flutter-io) 
