@@ -13,6 +13,8 @@
 - [Google codelabs](https://codelabs.developers.google.com/?cat=Flutter) - Google code labs are easy way to learn.
 - [Awesome flutter](https://github.com/Solido/awesome-flutter) - Github repository
 - [Quick Dart Lessons](https://egghead.io/browse/languages/dart) - by EggHead
+- [It's All Widgets](https://itsallwidgets.com/) - An open list of apps built with Google Flutter
+
 
 ### Libraries
 - [Kiwi](https://github.com/letsar/kiwi) - Dependency injection for Flutter. Here is the [supporting article](https://medium.com/flutter-community/announcing-kiwi-52ddb3935e6d)
