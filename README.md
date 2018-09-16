@@ -1,6 +1,6 @@
 # Link-Me-Up
 
-Any technical information which I come across will be logged here.
+Any technical information which I come across everyday, will be logged here.
 
 - Android
   - [Android Resources](https://github.com/Naveentp/Link-Me-Up/blob/master/android/android_resources.md)
