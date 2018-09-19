@@ -19,6 +19,7 @@
 ### Libraries
 - [Kiwi](https://github.com/letsar/kiwi) - Dependency injection for Flutter. Here is the [supporting article](https://medium.com/flutter-community/announcing-kiwi-52ddb3935e6d)
 - [Awesome flutter snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - for Visual studio code 
+- [Flutter UI kit](https://github.com/iampawan/Flutter-UI-Kit)
 
 ### Medium
 - [Flutter IO](https://medium.com/flutter-io) 
@@ -26,6 +27,7 @@
 - [Making the Most of Flutter](https://hackernoon.com/making-the-most-of-flutter-from-basics-to-customization-433171581d01) - From Basics to Customization
 - [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 - [Flutter Simple Animations](https://medium.com/flutter-community/create-simple-animations-for-your-articles-with-flutter-7769085108d1) - Create simple animations for your articles with Flutter.
+- [Flutter Facebook Login](https://medium.com/flutter-community/flutter-facebook-login-77fcd187242)
 
 ### Flutter Enthusiasts
 - [deven98](https://github.com/deven98) - Flutter Whatsapp, Twitter, Medium Clone apps

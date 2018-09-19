@@ -53,6 +53,9 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Merge PDFs into one](https://www.altomerge.com/) 
 - [Trello](https://trello.com/) - Tool for teams to collaborate on any project
 - [tldr - commandline helper tool](https://tldr.ostera.io/) - Less scary command line `man` pages. [Source](https://github.com/tldr-pages/tldr) attached. Similar tools - [BroPages](http://bropages.org/), [Cheat](https://github.com/chrisallenlane/cheat). 
+- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Extension to show code tree for GitHub.
+- [JetBrains Toolbox Extension(Chrome plug-in)](https://chrome.google.com/webstore/detail/jetbrains-toolbox-extensi/offnedcbhjldheanlbojaefbfbllddna) - This extension adds link to open project from GitHub in IntelliJ-based IDEs
+- [JetBrains Toolbox Extension(Firefox plug-in)](https://addons.mozilla.org/en-US/firefox/addon/jetbrains-toolbox/) - This extension adds link to open project from GitHub in IntelliJ-based IDEs
 
   
 ### Just for fun
