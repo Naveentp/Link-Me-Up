@@ -1,4 +1,4 @@
-# Android Debug Bridge
+# ADB, Emulator and Git commands
 
 ## Basics
 - `adb start-server` - Start ADB server  
@@ -59,4 +59,8 @@ Refer [KeyEvent](https://developer.android.com/reference/android/view/KeyEvent.h
 ### Quick links
 - Connect multiple devices remotely using adb [Ref link](https://android.stackexchange.com/a/137615/263737)
 - `adb exec-out run-as YOUR.APP.ID cat /data/data/YOUR.APP.ID/shared_prefs/SHARED_PREF_NAME.xml` - Read SharedPref file from device 
+
+## Emulator
+- When internet/wifi not working in the emulator - Go to your android-sdk/emulator and run, this will start the emulator `./emulator -avd YOUR_EMULATOR_NAME -dns-server 8.8.8.8,8.8.8.4`
+- To know the name of emulator - `./emulator -list-avds`
 
