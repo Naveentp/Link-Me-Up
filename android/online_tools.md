@@ -34,6 +34,7 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Appetize](https://appetize.io/) - Online emulator. Run apps on browser
 - [Android starters](http://androidstarters.com/) - Starter projects
 - [Kotlin Extensions](http://kotlinextensions.com/) - Curated list of kotlin extensions
+- [Kotlin online playground](https://play.kotlinlang.org/) -  You can edit, run, and share kotlin code online.
 
 ### Online resources
 - [Kotlin Resources](https://www.kotlinresources.com/) - The ultimate resource list for your most loved coding language.
