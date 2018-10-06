@@ -17,6 +17,7 @@
 - [Quick Android Lessons](https://egghead.io/browse/platforms/android) - by [egghead.io](https://egghead.io/).
 - [Modifying your Retrofit to make your app offline-friendly without a database](https://medium.com/mindorks/caching-with-retrofit-store-responses-offline-71439ed32fda)
 
+
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts
 - [Learn Kotlin with Keddit (Series)](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664) - Learn kotlin concepts while developing reddit client app.
