@@ -77,3 +77,19 @@ getString(R.string.APP_NAME);
 + **You can now debug `build.gradle` file using IntelliJ IDE [[Ref link](https://twitter.com/gradle/status/1025066195848810496)]**
 
 + **Learn everything about `ConstraintLayout` [here](https://constraintlayout.com/). This has some cool tips and tricks as well.**
+
++ **Run single kotlin class with main function in android studio**
+```
+class Sample {
+    
+    companion object {
+        
+        @JvmStatic
+        fun main(args: Array<String>) {
+            print("Hello World!")
+        }
+    }
+    
+}
+```
+
