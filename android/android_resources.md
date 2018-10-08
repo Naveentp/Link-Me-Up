@@ -17,7 +17,7 @@
 - [Quick Android Lessons - EggHead.io](https://egghead.io/browse/platforms/android) - by [egghead.io](https://egghead.io/).
 - [Android Development Tutorials and Courses - Hackr.io](https://hackr.io/tutorials/learn-android-development)
 - [Modifying your Retrofit to make your app offline-friendly without a database](https://medium.com/mindorks/caching-with-retrofit-store-responses-offline-71439ed32fda)
-
+- [Creating custom views](https://code.tutsplus.com/tutorials/android-sdk-creating-custom-views--mobile-14548)
 
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts
