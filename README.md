@@ -81,15 +81,16 @@ getString(R.string.APP_NAME);
 + **Run single kotlin class with main function in android studio**
 ```
 class Sample {
-    
     companion object {
-        
         @JvmStatic
         fun main(args: Array<String>) {
             print("Hello World!")
         }
     }
-    
 }
 ```
+
++ **Retrofit**
+    + [Send JSON Requests and Receive XML Responses (or vice versa)](https://stackoverflow.com/a/46619199/5629056)
+    + [Customize Network Timeouts](https://futurestud.io/tutorials/retrofit-2-customize-network-timeouts)
 
