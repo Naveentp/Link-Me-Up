@@ -62,6 +62,7 @@ Here is the list of online tools which we can make use of and the list of curate
 ### Just for fun
 - [WhatTheCommit](https://whatthecommit.com/) - Commit message generator
 - [IDontLikeWork](https://idontlike.work/) - Work from home reason generator
+- [Music for programming](http://musicforprogramming.net/) - A series of mixes intended for listening while '+task+' to aid concentration and increase productivity (also compatible with other activities).
 
 ### IntelliJ Plugins
 - [Drawable importer](https://github.com/winterDroid/android-drawable-importer-intellij-plugin) - Drawables in different resolutions
