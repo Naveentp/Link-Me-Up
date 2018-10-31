@@ -18,7 +18,6 @@
 - [Android Development Tutorials and Courses - Hackr.io](https://hackr.io/tutorials/learn-android-development)
 - [Modifying your Retrofit to make your app offline-friendly without a database](https://medium.com/mindorks/caching-with-retrofit-store-responses-offline-71439ed32fda)
 - [Creating custom views](https://code.tutsplus.com/tutorials/android-sdk-creating-custom-views--mobile-14548)
-- [Techeos](https://www.techeos.com/)
 - [How to change the language on Android at runtime and don’t go mad](https://proandroiddev.com/change-language-programmatically-at-runtime-on-android-5e6bc15c758)
 
 ##### Kotlin
@@ -36,3 +35,4 @@
 - [Kotlin tips](https://medium.com/default-to-open/kotlin-tips-singleton-utility-functions-group-object-initialization-and-more-27cdd6f63a41) - Singleton, Utility Functions, group Object Initialization and more…
 - [Simplify your Android code by delegating to sealed classes](https://medium.com/halcyon-mobile/simplify-your-android-code-by-delegating-to-sealed-classes-99304c509321)
 - [An Introduction to Inline Classes in Kotlin](https://typealias.com/guides/introduction-to-inline-classes/)
+- [Using Kotlin Coroutines in your Android App [Codelab]](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/)

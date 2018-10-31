@@ -43,6 +43,7 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Android Resources](https://androidresources.net/) - Articles, Podcasts & Conferences about Android Development
 - [ConstraintLayout](https://constraintlayout.com/) - Everything about `ConstraintLayout`
 - [Android Dev training gitbook](https://legacy.gitbook.com/@google-developer-training) - Android PDF to prepare Google dev expert certification
+- [Techeos](https://www.techeos.com/)
 
 ### Productivity
 - [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - Useful for presentations
