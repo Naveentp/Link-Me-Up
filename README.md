@@ -14,8 +14,7 @@ Any technical information which I come across everyday, will be logged here.
 - iOS
   - [Basics](https://github.com/Naveentp/Link-Me-Up/blob/master/iOS/basics.md)
   - [iOS Resources](https://github.com/Naveentp/Link-Me-Up/blob/master/iOS/ios_resources.md)
-	
-- [Interview Questions](https://github.com/Naveentp/Link-Me-Up/blob/master/interview_questions.md)
+  
 	
 ### Be Productive
 	
