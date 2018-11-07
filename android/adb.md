@@ -31,6 +31,7 @@ eg, adb push `E:\Path\to\file.mp4" "/sdcard/Downloads/video.mp4`
 - `adb shell screenrecord "/path/to/record.mp4"` - Screen Record from device
 - `adb shell logcat` - Pull logs from device  
 - `adb shell monkey -p com.myAppPackage -v 10000 -s 100` - monkey tool is generating 10000 random events on the real device
+- `adb shell dumpsys activity activities | sed -En -e '/Running activities/,/Run #0/p'` - prints current tasks and activity backstack
 
 ### Package manager
 - `adb shell pm uninstall com.example.MyApp` - Uninstalls app
