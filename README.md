@@ -4,7 +4,7 @@ Any technical information which I come across everyday, will be logged here.
 
 - Android
   - [Android Resources](https://github.com/Naveentp/Link-Me-Up/blob/master/android/android_resources.md)
-  - [ADB commands](https://github.com/Naveentp/Link-Me-Up/blob/master/android/adb.md)
+  - [Terminal commands[ADB, Git, Emulator]](https://github.com/Naveentp/Link-Me-Up/blob/master/android/terminal_commands.md)
   - [Online Tools](https://github.com/Naveentp/Link-Me-Up/blob/master/android/online_tools.md)
   - [Libraries/Opensource](https://github.com/Naveentp/Link-Me-Up/blob/master/android/libraries.md)
 
