@@ -36,3 +36,4 @@
 - [Simplify your Android code by delegating to sealed classes](https://medium.com/halcyon-mobile/simplify-your-android-code-by-delegating-to-sealed-classes-99304c509321)
 - [An Introduction to Inline Classes in Kotlin](https://typealias.com/guides/introduction-to-inline-classes/)
 - [Using Kotlin Coroutines in your Android App [Codelab]](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/)
+- [Migrating build logic from Groovy to Kotlin](https://guides.gradle.org/migrating-build-logic-from-groovy-to-kotlin/) - Anyone tried migrating?
