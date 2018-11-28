@@ -36,6 +36,10 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Kotlin Extensions](http://kotlinextensions.com/) - Curated list of kotlin extensions
 - [Kotlin online playground](https://play.kotlinlang.org/) -  You can edit, run, and share kotlin code online.
 
+
+### Release
+[App privacy policy generator](https://app-privacy-policy-generator.firebaseapp.com/) - Generate a generic Privacy Policy and Terms & Conditions for your apps
+
 ### Online resources
 - [Kotlin Resources](https://www.kotlinresources.com/) - The ultimate resource list for your most loved coding language.
 - [Android Arsenal](https://android-arsenal.com/) - Pool of android libraries and tools
@@ -44,6 +48,7 @@ Here is the list of online tools which we can make use of and the list of curate
 - [ConstraintLayout](https://constraintlayout.com/) - Everything about `ConstraintLayout`
 - [Android Dev training gitbook](https://legacy.gitbook.com/@google-developer-training) - Android PDF to prepare Google dev expert certification
 - [Techeos](https://www.techeos.com/)
+
 
 ### Productivity
 - [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - Useful for presentations
