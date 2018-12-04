@@ -19,6 +19,7 @@
 - [Modifying your Retrofit to make your app offline-friendly without a database](https://medium.com/mindorks/caching-with-retrofit-store-responses-offline-71439ed32fda)
 - [Creating custom views](https://code.tutsplus.com/tutorials/android-sdk-creating-custom-views--mobile-14548)
 - [How to change the language on Android at runtime and don’t go mad](https://proandroiddev.com/change-language-programmatically-at-runtime-on-android-5e6bc15c758)
+- [Guide to app architecture](https://developer.android.com/jetpack/docs/guide) - official Android guide to app architecture
 
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts
