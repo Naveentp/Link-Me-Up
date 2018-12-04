@@ -20,6 +20,7 @@
 - [Creating custom views](https://code.tutsplus.com/tutorials/android-sdk-creating-custom-views--mobile-14548)
 - [How to change the language on Android at runtime and don’t go mad](https://proandroiddev.com/change-language-programmatically-at-runtime-on-android-5e6bc15c758)
 - [Guide to app architecture](https://developer.android.com/jetpack/docs/guide) - official Android guide to app architecture
+- [The Missing Google Sample of Android “Architecture Components” Guide.](https://proandroiddev.com/the-missing-google-sample-of-android-architecture-components-guide-c7d6e7306b8f) - Read what are we missing in [GoogleSamples](https://github.com/googlesamples/android-architecture-components) repo on Android architectural components implementation.
 
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts
