@@ -12,6 +12,12 @@
 - [AkshayChordiya/android-arch-news-sample](https://github.com/AkshayChordiya/android-arch-news-sample)
 
 ## MVVM:
+#### Github repo
 - [samira-badamestani/MVVM-Simple-Sample](https://github.com/samira-badamestani/MVVM-Simple-Sample) 
 - [samira-badamestani/MVVM-Dagger-RX-Room](https://github.com/samira-badamestani/MVVM-Dagger-RX-Room)
 - [samira-badamestani/cleanArc-foodList](https://github.com/samira-badamestani/cleanArc-foodList)
+
+#### Medium
+- [Implementing MVVM using LiveData, RxJava, Dagger Android](https://proandroiddev.com/mvvm-architecture-using-livedata-rxjava-and-new-dagger-android-injection-639837b1eb6c)
+- [ViewModel with Dagger2 (Android Architecture Components)](https://proandroiddev.com/viewmodel-with-dagger2-architecture-components-2e06f06c9455)
+- [The Missing Google Sample of Android “Architecture Components” Guide.](https://proandroiddev.com/the-missing-google-sample-of-android-architecture-components-guide-c7d6e7306b8f)
