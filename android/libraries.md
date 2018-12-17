@@ -7,6 +7,7 @@
 - [Dagger2 basics](https://www.youtube.com/watch?v=Qwk7ESmaCq0) - by Twisted equations
 - [How to use Dagger2](https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97) - That Missing Guide : How to use Dagger2
 - [Dagger2](https://www.raywenderlich.com/171327/dependency-injection-android-dagger-2) - Raywenderlich tutorial
+- [android-mvvm-dagger-2-rxjava-example](https://github.com/ibrahimsn98/android-mvvm-dagger-2-rxjava-example/) - Dagger impl example
 
 ##### Koin
 - [Koin Official website](https://insert-koin.io/) - A pragmatic lightweight dependency injection framework for Kotlin developers.
