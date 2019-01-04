@@ -41,3 +41,4 @@
 - [An Introduction to Inline Classes in Kotlin](https://typealias.com/guides/introduction-to-inline-classes/)
 - [Using Kotlin Coroutines in your Android App [Codelab]](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/)
 - [Migrating build logic from Groovy to Kotlin](https://guides.gradle.org/migrating-build-logic-from-groovy-to-kotlin/) - Anyone tried migrating?
+- [Kotlin SharedPreferences using delegated property](https://trivedihardik.wordpress.com/2017/08/01/kotlin-sharedpreferences-using-delegated-property/) - Using kotlin's delegated properties to access sharedPref data
