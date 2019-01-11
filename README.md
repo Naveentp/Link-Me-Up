@@ -7,6 +7,7 @@ Any technical information which I come across everyday, will be logged here.
   - [Terminal commands[ADB, Git, Emulator]](https://github.com/Naveentp/Link-Me-Up/blob/master/android/terminal_commands.md)
   - [Online Tools](https://github.com/Naveentp/Link-Me-Up/blob/master/android/online_tools.md)
   - [Libraries/Opensource](https://github.com/Naveentp/Link-Me-Up/blob/master/android/libraries.md)
+  - [Kotlin Extensions](https://github.com/Naveentp/Link-Me-Up/blob/master/android/kotlin_extensions.md)
 
 - Flutter
 	- [Flutter Resources](https://github.com/Naveentp/Link-Me-Up/blob/master/flutter/flutter_resources.md)
