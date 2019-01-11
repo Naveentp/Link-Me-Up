@@ -93,11 +93,14 @@ fun Context.showAlertDialog(
 
 // Usage
 1. showAlertDialog("Success!", "You earned it!")
-2. showAlertDialog("Title", "Content", isCancellable = false, positiveBtnTitle = "I Agree", handlePositiveBtnClick = {
-                            // positive button click logic goes here
-                        }, isNegativeButton = true, negativeBtnTitle = "Cancel", handleNegativeBtnClick = {
-                            // negative button click logic goes here
-                        })
+2. showAlertDialog("Title", "Content",
+                isCancellable = false,
+                positiveBtnTitle = "Yes",
+                handlePositiveBtnClick = { /*positive button click logic goes here*/ },
+                isNegativeButton = true,
+                negativeBtnTitle = "No",
+                handleNegativeBtnClick = { /*negative button click logic goes here*/ }
+    )
 ```
 
 ## View
