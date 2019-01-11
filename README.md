@@ -32,7 +32,7 @@ Any technical information which I come across everyday, will be logged here.
 + **Learn [MVP, MVVM, MVI](https://github.com/Naveentp/Link-Me-Up/blob/master/android/architecture.md) architectural patterns**
 ---
 + **Create build time resource/variables in `build.gradle`**
-```
+```groovy
 android{
   defaultConfig {
     ...
@@ -81,7 +81,7 @@ getString(R.string.APP_NAME);
 + **Learn everything about `ConstraintLayout` [here](https://constraintlayout.com/). This has some cool tips and tricks as well.**
 ---
 + **Run single kotlin class with main function in android studio**
-```
+```kotlin
 class Sample {
     companion object {
         @JvmStatic
@@ -96,5 +96,3 @@ class Sample {
     + [Send JSON Requests and Receive XML Responses (or vice versa)](https://stackoverflow.com/a/46619199/5629056)
     + [Customize Network Timeouts](https://futurestud.io/tutorials/retrofit-2-customize-network-timeouts)
 ---
-+ **Android Extensions**
-    + `Synthetic` Automatically 
