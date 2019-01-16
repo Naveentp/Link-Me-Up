@@ -23,6 +23,7 @@
 - [The Missing Google Sample of Android “Architecture Components” Guide.](https://proandroiddev.com/the-missing-google-sample-of-android-architecture-components-guide-c7d6e7306b8f) - Read what are we missing in [GoogleSamples](https://github.com/googlesamples/android-architecture-components) repo on Android architectural components implementation.
 - [Android Developer Fundamentals Course](https://codelabs.developers.google.com/android-training/) - Android codelab courses for beginners
 - [Advanced Android Developer Course](https://codelabs.developers.google.com/advanced-android-training/) - Android codelab courses covers advanced topics.
+- [Implement an in-app update function](https://medium.com/grandcentrix/implement-an-in-app-updater-1f50fbc38416) - Introducing in-app update API available for apps published via Google Play.
 
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts
