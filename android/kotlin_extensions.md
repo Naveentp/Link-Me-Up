@@ -28,6 +28,17 @@ fun <T : Activity> KClass<T>.start(currentActivity: Activity, bundle: Bundle? = 
 3. HomeActivity::class.start(this, bundle = bundle, finish = true)
 ```
 
+```kotlin
+/**
+* Koltin extension: Bundle to parcelable object mapper
+**/
+
+fun <T : Parcelable> Activity.getParcelable(key: String): T? = intent?.extras?.getParcelable(key)
+
+// Usage
+val userDetails = getParcelable<UserDetails>(AppConstants.INTENT_USER_DETAILS)
+```
+
 
 ```kotlin
 /**
