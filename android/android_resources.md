@@ -25,6 +25,7 @@
 - [Advanced Android Developer Course](https://codelabs.developers.google.com/advanced-android-training/) - Android codelab courses covers advanced topics.
 - [Implement an in-app update function](https://medium.com/grandcentrix/implement-an-in-app-updater-1f50fbc38416) - Introducing in-app update API available for apps published via Google Play.
 - [Most Used Android Studio Shortcuts](https://medium.com/@taylorcase19/my-most-used-android-studio-shortcuts-e3f588e21075) - Handy android studio keyboard shortcuts. 
+- [ConstraintLayout in the LIMELIGHT](https://android.jlelse.eu/constraintlayout-in-the-limelight-6c22b54d9726) - ConstraintLayout in the LIMELIGHT
 
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts
