@@ -15,6 +15,7 @@
 - [Quick Dart Lessons](https://egghead.io/browse/languages/dart) - by EggHead
 - [It's All Widgets](https://itsallwidgets.com/) - An open list of apps built with Google Flutter
 - [Flutter: Build a Beautiful Pokemon App](https://www.youtube.com/watch?v=yeXJqZCiwTQ&feature=youtu.be) -  Flutter Animation | Widgets | JSON API
+- [Flutter Examples](http://flutterexamples.com/) - An ultimate cheatbook of curated designs
 
 ### Libraries
 - [Kiwi](https://github.com/letsar/kiwi) - Dependency injection for Flutter. Here is the [supporting article](https://medium.com/flutter-community/announcing-kiwi-52ddb3935e6d)
