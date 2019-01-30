@@ -35,6 +35,7 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Android starters](http://androidstarters.com/) - Starter projects
 - [Kotlin Extensions](http://kotlinextensions.com/) - Curated list of kotlin extensions
 - [Kotlin online playground](https://play.kotlinlang.org/) -  You can edit, run, and share kotlin code online.
+- [Window VQA](https://play.google.com/store/apps/details?id=com.dziemia.w.window&rdid=com.dziemia.w.window) - A new tool for VQA on Android
 
 
 ### Release
