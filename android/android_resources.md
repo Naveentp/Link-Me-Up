@@ -26,7 +26,8 @@
 - [Implement an in-app update function](https://medium.com/grandcentrix/implement-an-in-app-updater-1f50fbc38416) - Introducing in-app update API available for apps published via Google Play.
 - [Most Used Android Studio Shortcuts](https://medium.com/@taylorcase19/my-most-used-android-studio-shortcuts-e3f588e21075) - Handy android studio keyboard shortcuts. 
 - [ConstraintLayout in the LIMELIGHT](https://android.jlelse.eu/constraintlayout-in-the-limelight-6c22b54d9726) - ConstraintLayout in the LIMELIGHT
-- [Intro to ConstraintLayout](https://www.raywenderlich.com/9193-constraintlayout-tutorial-for-android-getting-started) - "ConstraintLayout tutorial for Android Getting started" From Raywenderlich 
+- [Intro to ConstraintLayout](https://www.raywenderlich.com/9193-constraintlayout-tutorial-for-android-getting-started) - "ConstraintLayout tutorial for Android Getting started" From Raywenderlich  
+- [Synchronization, Thread-Safety and Locking Techniques in Java and Kotlin](https://proandroiddev.com/synchronization-and-thread-safety-techniques-in-java-and-kotlin-f63506370e6d) - In this article, multiple types of synchronization, locking and thread-safety in Java and Kotlin work are explained through interactive examples.  
 
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts
