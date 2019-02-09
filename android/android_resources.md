@@ -27,7 +27,8 @@
 - [Most Used Android Studio Shortcuts](https://medium.com/@taylorcase19/my-most-used-android-studio-shortcuts-e3f588e21075) - Handy android studio keyboard shortcuts. 
 - [ConstraintLayout in the LIMELIGHT](https://android.jlelse.eu/constraintlayout-in-the-limelight-6c22b54d9726) - ConstraintLayout in the LIMELIGHT
 - [Intro to ConstraintLayout](https://www.raywenderlich.com/9193-constraintlayout-tutorial-for-android-getting-started) - "ConstraintLayout tutorial for Android Getting started" From Raywenderlich  
-- [Synchronization, Thread-Safety and Locking Techniques in Java and Kotlin](https://proandroiddev.com/synchronization-and-thread-safety-techniques-in-java-and-kotlin-f63506370e6d) - In this article, multiple types of synchronization, locking and thread-safety in Java and Kotlin work are explained through interactive examples.  
+- [Synchronization, Thread-Safety and Locking Techniques in Java and Kotlin](https://proandroiddev.com/synchronization-and-thread-safety-techniques-in-java-and-kotlin-f63506370e6d) - In this article, multiple types of synchronization, locking and thread-safety in Java and Kotlin work are explained through interactive examples. 
+- [8 Steps to Google Pay on Android](https://medium.com/google-developer-experts/8-steps-to-google-pay-on-android-9fb899bfbfcb) - Integrating Google pay in android app.
 
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts
@@ -48,3 +49,7 @@
 - [Migrating build logic from Groovy to Kotlin](https://guides.gradle.org/migrating-build-logic-from-groovy-to-kotlin/) - Anyone tried migrating?
 - [Kotlin SharedPreferences using delegated property](https://trivedihardik.wordpress.com/2017/08/01/kotlin-sharedpreferences-using-delegated-property/) - Using kotlin's delegated properties to access sharedPref data
 - [Room + Coroutines](https://medium.com/androiddevelopers/room-coroutines-422b786dc4c5?linkId=63267803) - Room v2.1 supports coroutines now.
+
+##### Others
+- [Terrified of speaking at a conference? Submit anyway!](https://hackernoon.com/terrified-of-speaking-at-a-conference-submit-anyway-41dfc8deae86) - Tips on submitting and giving your first talk.
+
