@@ -51,6 +51,7 @@
 - [Room + Coroutines](https://medium.com/androiddevelopers/room-coroutines-422b786dc4c5?linkId=63267803) - Room v2.1 supports coroutines now.
 - [How to maximize Android’s UI reusability](https://proandroiddev.com/how-to-maximize-androids-ui-reusability-5-common-mistakes-cb2571216a9f) -  5 common mistakes
 - [Smooth cross RecyclingViews Swipe](https://medium.com/@elye.project/smooth-cross-recyclingviews-swipe-cc2810e13e0a?sk=eee448ba230f0a764512f0142f8674e1) - Scroll vertical RecyclerView containing many horizontal RecyclerViews 
+- [The reason to avoid GlobalScope](https://medium.com/@elizarov/the-reason-to-avoid-globalscope-835337445abc) - Article about launching coroutines in the context of CoroutineScope.
 
 ##### Others
 - [Terrified of speaking at a conference? Submit anyway!](https://hackernoon.com/terrified-of-speaking-at-a-conference-submit-anyway-41dfc8deae86) - Tips on submitting and giving your first talk.
