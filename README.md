@@ -69,7 +69,8 @@ getString(R.string.APP_NAME);
 ---
 + **[Recommended programming books](https://github.com/Javagroup123/group/wiki/Recommended-Books)**
 ---
-+ **Kotlin [standard functions](https://github.com/JetBrains/kotlin/blob/master/libraries/stdlib/src/kotlin/util/Standard.kt)(let, apply, with, also, run) and [when to use what](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84)?**  
++ **Kotlin [standard functions](https://github.com/JetBrains/kotlin/blob/master/libraries/stdlib/src/kotlin/util/Standard.kt)(let, apply, with, also, run), [When to use Kotlin's standard functions](https://blog.danlew.net/2019/02/12/when-to-use-kotlins-stdlib-functions/) and [when to use what](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84)?**  
+
 <h1 align="center">
   <img src="https://cdn-images-1.medium.com/max/800/1*pLNnrvgvmG6Mdi0Yw3mdPQ.png">
   <br>
