@@ -22,3 +22,4 @@
 - [ViewModel with Dagger2 (Android Architecture Components)](https://proandroiddev.com/viewmodel-with-dagger2-architecture-components-2e06f06c9455)
 - [The Missing Google Sample of Android “Architecture Components” Guide.](https://proandroiddev.com/the-missing-google-sample-of-android-architecture-components-guide-c7d6e7306b8f)
 - [ViewModels and LiveData](https://medium.com/androiddevelopers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54) - Patterns + AntiPatterns
+- [How to communicate between fragments and activity using ViewModel](https://medium.com/mindorks/how-to-communicate-between-fragments-and-activity-using-viewmodel-ca733233a51c)
