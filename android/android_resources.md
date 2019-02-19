@@ -51,6 +51,7 @@
 - [Migrating build logic from Groovy to Kotlin](https://guides.gradle.org/migrating-build-logic-from-groovy-to-kotlin/) - Anyone tried migrating?
 - [Kotlin SharedPreferences using delegated property](https://trivedihardik.wordpress.com/2017/08/01/kotlin-sharedpreferences-using-delegated-property/) - Using kotlin's delegated properties to access sharedPref data
 - [Room + Coroutines](https://medium.com/androiddevelopers/room-coroutines-422b786dc4c5?linkId=63267803) - Room v2.1 supports coroutines now.
+- [Launching a Kotlin Coroutine for immediate execution on the Main thread](https://medium.com/@trionkidnapper/launching-a-kotlin-coroutine-for-immediate-execution-on-the-main-thread-8555e701163b)
 - [How to maximize Android’s UI reusability](https://proandroiddev.com/how-to-maximize-androids-ui-reusability-5-common-mistakes-cb2571216a9f) -  5 common mistakes
 - [Smooth cross RecyclingViews Swipe](https://medium.com/@elye.project/smooth-cross-recyclingviews-swipe-cc2810e13e0a?sk=eee448ba230f0a764512f0142f8674e1) - Scroll vertical RecyclerView containing many horizontal RecyclerViews 
 - [The reason to avoid GlobalScope](https://medium.com/@elizarov/the-reason-to-avoid-globalscope-835337445abc) - Article about launching coroutines in the context of CoroutineScope.
