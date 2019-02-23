@@ -13,6 +13,7 @@
 - [BrianAdvent](https://www.brianadvent.com/)
 - [Flatiron school](https://flatironschool.com/programs/online-swift-free-course/)
 - [Quick Android Lessons - by egghead.io](https://egghead.io/browse/platforms/ios)
+- [#100DaysOfSwift by HackingWithSwift](https://www.hackingwithswift.com/100/)
 
 ##### Paid Resources
 - [NSScreencast](https://nsscreencast.com/)
