@@ -57,6 +57,7 @@
 - [Smooth cross RecyclingViews Swipe](https://medium.com/@elye.project/smooth-cross-recyclingviews-swipe-cc2810e13e0a?sk=eee448ba230f0a764512f0142f8674e1) - Scroll vertical RecyclerView containing many horizontal RecyclerViews 
 - [The reason to avoid GlobalScope](https://medium.com/@elizarov/the-reason-to-avoid-globalscope-835337445abc) - Article about launching coroutines in the context of CoroutineScope.
 - [When to use Kotlin's standard functions](https://blog.danlew.net/2019/02/12/when-to-use-kotlins-stdlib-functions/) - Kotlin comes with several high-level, generic standard functions that apply to any object: `let()`, `run()`, `with()`, `apply()`, and `also()`.
+- [Exploring the View Pager 2](https://joebirch.co/2019/02/22/exploring-the-view-pager-2/) - Newer version of this component, the View Pager 2
 
 ##### Others
 - [Terrified of speaking at a conference? Submit anyway!](https://hackernoon.com/terrified-of-speaking-at-a-conference-submit-anyway-41dfc8deae86) - Tips on submitting and giving your first talk.
