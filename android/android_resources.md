@@ -31,6 +31,7 @@
 - [Synchronization, Thread-Safety and Locking Techniques in Java and Kotlin](https://proandroiddev.com/synchronization-and-thread-safety-techniques-in-java-and-kotlin-f63506370e6d) - In this article, multiple types of synchronization, locking and thread-safety in Java and Kotlin work are explained through interactive examples. 
 - [8 Steps to Google Pay on Android](https://medium.com/google-developer-experts/8-steps-to-google-pay-on-android-9fb899bfbfcb) - Integrating Google pay in android app.
 - [Playing with…](https://proandroiddev.com/playing-with-4f21bc67a7f9) - Paging Library, Retrofit, Coroutines, Koin & Testing.
+- [ConstraintLayout Deep Dive (Android Dev Summit '18)](https://www.youtube.com/watch?v=P9Zstbk0lPw)
 
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts
