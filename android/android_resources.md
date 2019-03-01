@@ -34,6 +34,7 @@
 - [ConstraintLayout Deep Dive (Android Dev Summit '18)](https://www.youtube.com/watch?v=P9Zstbk0lPw)
 - [Animating on a Schedule](https://medium.com/androiddevelopers/animating-on-a-schedule-8a90d812ae4) - Animation on google IO Schedule app.
 - [Work Manager By Android Jetpack](https://medium.com/@mfahadbuttt/work-manager-by-android-jetpack-eae1b181d0fd)
+- [Using vector assets in Android apps](https://medium.com/androiddevelopers/using-vector-assets-in-android-apps-4318fd662eb9)
 
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts
