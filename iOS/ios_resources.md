@@ -37,6 +37,7 @@
 - [An iOS alert view with a text field and a “smart” OK button](https://oleb.net/2018/uialertcontroller-textfield/)
 - [10 tips to become better swift developer](https://blog.bobthedeveloper.io/10-tips-to-become-better-swift-developer-a7c2ab6fc0c2)
 - [30+ great UI Kits for iOS engineers](https://medium.com/flawless-app-stories/30-great-ui-kits-for-ios-engineers-41b2732896b9)
+- [How to make an iOS on-demand build system with Jenkins and Fastlane](https://medium.freecodecamp.org/how-to-make-an-ios-on-demand-build-system-with-jenkins-and-fastlane-8eb1e02c73d1)
 
 ##### Unit Testing
 - [Unit Testing in iOS using ReactorKit, Quick & Nimble, RxBlocking, Swift 4.1](https://blog.getdoctalk.com/unit-testing-in-ios-using-reactorkit-quick-nimble-rxblocking-swift-4-1-a01ccbaff44b)
