@@ -65,4 +65,5 @@
 
 ##### Others
 - [Terrified of speaking at a conference? Submit anyway!](https://hackernoon.com/terrified-of-speaking-at-a-conference-submit-anyway-41dfc8deae86) - Tips on submitting and giving your first talk.
+- [Tips for Junior Developers Heading To Startups](https://dev.to/steelwolf180/tips-for-junior-developers-heading-to-startups---reading-time-4-mins-5ce3) - Tips for people who is planning to start their career as a developer for a startup.
 
