@@ -36,6 +36,7 @@
 - [Work Manager By Android Jetpack](https://medium.com/@mfahadbuttt/work-manager-by-android-jetpack-eae1b181d0fd)
 - [Using vector assets in Android apps](https://medium.com/androiddevelopers/using-vector-assets-in-android-apps-4318fd662eb9)
 - [Introduction to MotionLayout (part I)](https://medium.com/google-developers/introduction-to-motionlayout-part-i-29208674b10d)
+- [Riggaroo - ANDROID MOTIONLAYOUT TUTORIAL – COLLAPSING VIEW](https://riggaroo.co.za/android-motionlayout-tutorial-collapsing-view/)
 
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts
