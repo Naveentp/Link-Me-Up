@@ -37,6 +37,7 @@
 - [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences
 - [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 - [Leak Canary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
+- [ANR-WatchDog](https://github.com/SalomonBrys/ANR-WatchDog) - A simple watchdog that detects Android ANRs (Application Not Responding).
 
 ##### Others
 - [Permission dispatcher Plugin](https://github.com/permissions-dispatcher/permissions-dispatcher-plugin) - Annotation based Runtime permission dispatcher
