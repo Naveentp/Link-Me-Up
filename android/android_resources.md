@@ -37,6 +37,7 @@
 - [Using vector assets in Android apps](https://medium.com/androiddevelopers/using-vector-assets-in-android-apps-4318fd662eb9)
 - [Introduction to MotionLayout (part I)](https://medium.com/google-developers/introduction-to-motionlayout-part-i-29208674b10d)
 - [Riggaroo - ANDROID MOTIONLAYOUT TUTORIAL – COLLAPSING VIEW](https://riggaroo.co.za/android-motionlayout-tutorial-collapsing-view/)
+- [[Youtube] Android - Building a layout from Scratch using ConstraintLayout](https://www.youtube.com/watch?v=rzmB3UxxhaA)
 
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts
