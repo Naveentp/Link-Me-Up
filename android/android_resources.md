@@ -39,6 +39,7 @@
 - [Riggaroo - ANDROID MOTIONLAYOUT TUTORIAL – COLLAPSING VIEW](https://riggaroo.co.za/android-motionlayout-tutorial-collapsing-view/)
 - [[Youtube] Android - Building a layout from Scratch using ConstraintLayout](https://www.youtube.com/watch?v=rzmB3UxxhaA)
 - [Exploring Android Q: Location Permissions](https://joebirch.co/2019/03/18/exploring-android-q-location-permissions/)
+- [Let’s talk Android](https://medium.com/@magdamiu/lets-talk-android-1f2c588d8726) - Great list of resources for learning.
 
 ##### Kotlin
 - [Kotlin Playground](https://medium.com/@jcmsalves/kotlin-playground-aab8be8ac432) - Learn kotlin concepts
