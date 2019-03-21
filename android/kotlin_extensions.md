@@ -62,6 +62,7 @@ if(isNetworkAvailable()){
 /**
 * Kotlin extension to get mobile IMEI
 * Requires READ_PHONE_STATE permission
+* Android Q onwards this also requires READ_PRIVILEGED_PHONE_STATE permission.
 **/
 
 fun Activity.getImei(): String {
