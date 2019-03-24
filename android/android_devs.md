@@ -2,7 +2,7 @@
 
 ### Android Dev Experts
 - Cyril Mottier :  https://cyrilmottier.com
-- Rebecca Franks : riggaroo.co.za
+- Rebecca Franks : https://riggaroo.co.za/
 - Zarah Dominguez :  https://zdominguez.com
 - Corey Leigh Latislaw :  http://coreylatislaw.com
 - Annyce Davis : http://adavis.info
