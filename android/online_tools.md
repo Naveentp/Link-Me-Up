@@ -15,6 +15,7 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Angry Tools](http://angrytools.com/) - A set of web and android tools
 - [Material io(Google)](https://material.io/tools/) - List of material design tools.
 - [Speak human](http://www.speakhuman.today/) - Generates humancentric microcopy for all purposes. 
+- [remove.bg](https://www.remove.bg/) - Remove Image Background
 
 
 #### Development
