@@ -19,6 +19,7 @@ Here is the list of online tools which we can make use of and the list of curate
 
 
 #### Development
+- [GitIgnore.io](https://gitignore.io/) - Create useful .gitignore files for your project.
 - [JsonPlaceHolder](https://jsonplaceholder.typicode.com/) - Fake Json REST API
 - [Jsonstub](http://jsonstub.com/) - Customized fake JSON REST API
 - [Mocky](https://www.mocky.io/) - Mock your HTTP responses to test your REST API
