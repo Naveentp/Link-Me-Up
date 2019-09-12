@@ -42,7 +42,8 @@ Here is the list of online tools which we can make use of and the list of curate
 
 
 ### Release
-[App privacy policy generator](https://app-privacy-policy-generator.firebaseapp.com/) - Generate a generic Privacy Policy and Terms & Conditions for your apps
+- [App privacy policy generator](https://app-privacy-policy-generator.firebaseapp.com/) - Generate a generic Privacy Policy and Terms & Conditions for your apps
+- [Kap](https://getkap.co/) - Capture your screen and convert it to gif
 
 ### Online resources
 - [Kotlin Resources](https://www.kotlinresources.com/) - The ultimate resource list for your most loved coding language.
