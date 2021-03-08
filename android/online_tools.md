@@ -40,6 +40,7 @@ Here is the list of online tools which we can make use of and the list of curate
 - [Kotlin online playground](https://play.kotlinlang.org/) -  You can edit, run, and share kotlin code online.
 - [Window VQA](https://play.google.com/store/apps/details?id=com.dziemia.w.window&rdid=com.dziemia.w.window) - A new tool for VQA on Android
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Genymotion's scrcpy to display and control your Android device.
+- [Oh Shit, Git!?!](https://ohshitgit.com/) - Git helper - Here are some bad situations and how to eventually get yourself out of them in plain english.
 
 
 ### Release
